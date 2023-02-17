@@ -12,7 +12,7 @@ const styles = [
   'LibSass',
   'DartSass',
   'Stylus',
-  'Postcss'
+  'Postc'
 ];
 
 function doTest(style) {
